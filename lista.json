@@ -1,0 +1,50 @@
+[
+    {
+        "nombre":"Carlos",
+        "apellido":"Contreras",
+        "edad":40,
+        "contacto":"091034956",
+        "mail":"cr22@gmail.com",
+        "fechaDeNacimiento":"13/04/1980",
+        "peso":80.6,
+        "altura": 1.76,
+        "inscripcion": "01/06/2020",
+        "pase":"completo"
+    },
+    {
+        "nombre":"Sandra",
+        "apellido":"Perez",
+        "edad":20,
+        "contacto":"096552448",
+        "mail":"sandrp_2000@gmail.com",
+        "fechaDeNacimiento":"15/07/2000",
+        "peso(kg)":60.2,
+        "altura": 1.58,
+        "inscripcion": "01/02/2020",
+        "pase":"Funcional"
+    },
+    {
+        "nombre":"Juan Pedro",
+        "apellido":"Martinez",
+        "edad":28,
+        "contacto":"094243348",
+        "mail":"jp_martinez@hotmail.com",
+        "fechaDeNacimiento":"13/11/1991",
+        "peso(kg)":79,
+        "altura": 1.85,
+        "inscripcion": "01/04/2020",
+        "pase":"Promo Natacion+musculacion"
+    },
+    {
+        "nombre":"Fernando",
+        "apellido":"Garcia",
+        "edad":45,
+        "contacto":"095553348",
+        "mail":"fer-g76@hotmail.com",
+        "fechaDeNacimiento":"22/03/1976",
+        "peso(kg)":91,
+        "altura": 1.83,
+        "inscripcion": "01/04/2020",
+        "pase":"Promo Natacion+musculacion"
+    }
+]
