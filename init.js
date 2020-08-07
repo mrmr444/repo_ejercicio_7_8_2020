@@ -1,4 +1,4 @@
-const LIST_URL="";
+const LIST_URL="https://mrmr444.github.io/repo_ejercicio_7_8_2020/lista.json";
 
 
 
